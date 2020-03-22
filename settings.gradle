@@ -1,0 +1,2 @@
+rootProject.name='VB Simple UI'
+include ':app'
